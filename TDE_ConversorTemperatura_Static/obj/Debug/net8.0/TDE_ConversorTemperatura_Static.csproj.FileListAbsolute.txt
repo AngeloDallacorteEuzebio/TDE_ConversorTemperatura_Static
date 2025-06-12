@@ -1,0 +1,14 @@
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_ConversorTemperatura_Static\TDE_ConversorTemperatura_Static\obj\Debug\net8.0\TDE_ConversorTemperatura_Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_ConversorTemperatura_Static\TDE_ConversorTemperatura_Static\obj\Debug\net8.0\TDE_ConversorTemperatura_Static.AssemblyInfoInputs.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_ConversorTemperatura_Static\TDE_ConversorTemperatura_Static\obj\Debug\net8.0\TDE_ConversorTemperatura_Static.AssemblyInfo.cs
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_ConversorTemperatura_Static\TDE_ConversorTemperatura_Static\obj\Debug\net8.0\TDE_ConversorTemperatura_Static.csproj.CoreCompileInputs.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_ConversorTemperatura_Static\TDE_ConversorTemperatura_Static\bin\Debug\net8.0\TDE_ConversorTemperatura_Static.exe
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_ConversorTemperatura_Static\TDE_ConversorTemperatura_Static\bin\Debug\net8.0\TDE_ConversorTemperatura_Static.deps.json
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_ConversorTemperatura_Static\TDE_ConversorTemperatura_Static\bin\Debug\net8.0\TDE_ConversorTemperatura_Static.runtimeconfig.json
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_ConversorTemperatura_Static\TDE_ConversorTemperatura_Static\bin\Debug\net8.0\TDE_ConversorTemperatura_Static.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_ConversorTemperatura_Static\TDE_ConversorTemperatura_Static\bin\Debug\net8.0\TDE_ConversorTemperatura_Static.pdb
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_ConversorTemperatura_Static\TDE_ConversorTemperatura_Static\obj\Debug\net8.0\TDE_ConversorTemperatura_Static.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_ConversorTemperatura_Static\TDE_ConversorTemperatura_Static\obj\Debug\net8.0\refint\TDE_ConversorTemperatura_Static.dll
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_ConversorTemperatura_Static\TDE_ConversorTemperatura_Static\obj\Debug\net8.0\TDE_ConversorTemperatura_Static.pdb
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_ConversorTemperatura_Static\TDE_ConversorTemperatura_Static\obj\Debug\net8.0\TDE_ConversorTemperatura_Static.genruntimeconfig.cache
+C:\Users\Servidor\Documents\Angelo\2025-1\Laboratório Programação\TDE_ConversorTemperatura_Static\TDE_ConversorTemperatura_Static\obj\Debug\net8.0\ref\TDE_ConversorTemperatura_Static.dll

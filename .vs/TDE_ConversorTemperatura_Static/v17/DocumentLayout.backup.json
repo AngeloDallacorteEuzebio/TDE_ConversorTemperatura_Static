@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Servidor\\Documents\\Angelo\\2025-1\\Laborat\u00F3rio Programa\u00E7\u00E3o\\TDE_ConversorTemperatura_Static\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25A0126C-119E-4327-88AC-59DECFBB7F62}|TDE_ConversorTemperatura_Static\\TDE_ConversorTemperatura_Static.csproj|c:\\users\\servidor\\documents\\angelo\\2025-1\\laborat\u00F3rio programa\u00E7\u00E3o\\tde_conversortemperatura_static\\tde_conversortemperatura_static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A0126C-119E-4327-88AC-59DECFBB7F62}|TDE_ConversorTemperatura_Static\\TDE_ConversorTemperatura_Static.csproj|solutionrelative:tde_conversortemperatura_static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A0126C-119E-4327-88AC-59DECFBB7F62}|TDE_ConversorTemperatura_Static\\TDE_ConversorTemperatura_Static.csproj|c:\\users\\servidor\\documents\\angelo\\2025-1\\laborat\u00F3rio programa\u00E7\u00E3o\\tde_conversortemperatura_static\\tde_conversortemperatura_static\\configuracoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A0126C-119E-4327-88AC-59DECFBB7F62}|TDE_ConversorTemperatura_Static\\TDE_ConversorTemperatura_Static.csproj|solutionrelative:tde_conversortemperatura_static\\configuracoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A0126C-119E-4327-88AC-59DECFBB7F62}|TDE_ConversorTemperatura_Static\\TDE_ConversorTemperatura_Static.csproj|c:\\users\\servidor\\documents\\angelo\\2025-1\\laborat\u00F3rio programa\u00E7\u00E3o\\tde_conversortemperatura_static\\tde_conversortemperatura_static\\conversortemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A0126C-119E-4327-88AC-59DECFBB7F62}|TDE_ConversorTemperatura_Static\\TDE_ConversorTemperatura_Static.csproj|solutionrelative:tde_conversortemperatura_static\\conversortemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConversorTemperatura.cs",
+              "DocumentMoniker": "C:\\Users\\Servidor\\Documents\\Angelo\\2025-1\\Laborat\u00F3rio Programa\u00E7\u00E3o\\TDE_ConversorTemperatura_Static\\TDE_ConversorTemperatura_Static\\ConversorTemperatura.cs",
+              "RelativeDocumentMoniker": "TDE_ConversorTemperatura_Static\\ConversorTemperatura.cs",
+              "ToolTip": "C:\\Users\\Servidor\\Documents\\Angelo\\2025-1\\Laborat\u00F3rio Programa\u00E7\u00E3o\\TDE_ConversorTemperatura_Static\\TDE_ConversorTemperatura_Static\\ConversorTemperatura.cs",
+              "RelativeToolTip": "TDE_ConversorTemperatura_Static\\ConversorTemperatura.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:25:03.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Configuracoes.cs",
+              "DocumentMoniker": "C:\\Users\\Servidor\\Documents\\Angelo\\2025-1\\Laborat\u00F3rio Programa\u00E7\u00E3o\\TDE_ConversorTemperatura_Static\\TDE_ConversorTemperatura_Static\\Configuracoes.cs",
+              "RelativeDocumentMoniker": "TDE_ConversorTemperatura_Static\\Configuracoes.cs",
+              "ToolTip": "C:\\Users\\Servidor\\Documents\\Angelo\\2025-1\\Laborat\u00F3rio Programa\u00E7\u00E3o\\TDE_ConversorTemperatura_Static\\TDE_ConversorTemperatura_Static\\Configuracoes.cs",
+              "RelativeToolTip": "TDE_ConversorTemperatura_Static\\Configuracoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:20:51.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Servidor\\Documents\\Angelo\\2025-1\\Laborat\u00F3rio Programa\u00E7\u00E3o\\TDE_ConversorTemperatura_Static\\TDE_ConversorTemperatura_Static\\Program.cs",
+              "RelativeDocumentMoniker": "TDE_ConversorTemperatura_Static\\Program.cs",
+              "ToolTip": "C:\\Users\\Servidor\\Documents\\Angelo\\2025-1\\Laborat\u00F3rio Programa\u00E7\u00E3o\\TDE_ConversorTemperatura_Static\\TDE_ConversorTemperatura_Static\\Program.cs",
+              "RelativeToolTip": "TDE_ConversorTemperatura_Static\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:19:06.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
