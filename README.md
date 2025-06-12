@@ -1,0 +1,1 @@
+# TDE_ConversorTemperatura_Static
